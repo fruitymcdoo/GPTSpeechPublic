@@ -1,0 +1,7 @@
+deepspeech
+numpy
+pyaudio
+wave
+webrtcvad
+noisereduce
+scipy

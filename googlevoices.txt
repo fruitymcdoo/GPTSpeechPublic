@@ -1,0 +1,480 @@
+voices {
+  language_codes: "en-US"
+  name: "en-US-Standard-A"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Standard-B"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Standard-C"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Standard-D"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Standard-E"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Standard-F"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Standard-G"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Standard-H"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Standard-I"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Standard-J"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-AU"
+  name: "en-AU-Standard-A"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-AU"
+  name: "en-AU-Standard-B"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-AU"
+  name: "en-AU-Standard-C"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-AU"
+  name: "en-AU-Standard-D"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-Standard-A"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-Standard-B"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-Standard-C"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-Standard-D"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-Standard-F"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-IN"
+  name: "en-IN-Standard-D"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-IN"
+  name: "en-IN-Standard-A"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-IN"
+  name: "en-IN-Standard-B"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-IN"
+  name: "en-IN-Standard-C"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-Wavenet-A"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-Wavenet-B"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-Wavenet-C"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-Wavenet-D"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-Wavenet-F"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-News-K"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-News-L"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-News-M"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-News-N"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Wavenet-G"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Wavenet-H"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Wavenet-I"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Wavenet-J"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Wavenet-A"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Wavenet-B"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Wavenet-C"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Wavenet-D"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Wavenet-E"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Wavenet-F"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-AU"
+  name: "en-AU-Wavenet-A"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-AU"
+  name: "en-AU-Wavenet-B"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-AU"
+  name: "en-AU-Wavenet-C"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-AU"
+  name: "en-AU-Wavenet-D"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-IN"
+  name: "en-IN-Wavenet-D"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-IN"
+  name: "en-IN-Wavenet-A"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-IN"
+  name: "en-IN-Wavenet-B"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-IN"
+  name: "en-IN-Wavenet-C"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-AU"
+  name: "en-AU-News-E"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-AU"
+  name: "en-AU-News-F"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-AU"
+  name: "en-AU-News-G"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-News-G"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-News-H"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-News-I"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-News-J"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-News-K"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-News-L"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-News-M"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-AU"
+  name: "en-AU-Neural2-A"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-AU"
+  name: "en-AU-Neural2-B"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-AU"
+  name: "en-AU-Neural2-C"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-AU"
+  name: "en-AU-Neural2-D"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-Neural2-A"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-Neural2-B"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-Neural2-C"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-Neural2-D"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-GB"
+  name: "en-GB-Neural2-F"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Neural2-A"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Neural2-C"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Neural2-D"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Neural2-E"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Neural2-F"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Neural2-G"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Neural2-H"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Neural2-I"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Neural2-J"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Studio-M"
+  ssml_gender: MALE
+  natural_sample_rate_hertz: 24000
+}
+voices {
+  language_codes: "en-US"
+  name: "en-US-Studio-O"
+  ssml_gender: FEMALE
+  natural_sample_rate_hertz: 24000
+}
